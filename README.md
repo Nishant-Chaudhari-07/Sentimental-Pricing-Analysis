@@ -7,7 +7,7 @@ This project analyzes Airbnb listings in Rhode Island by combining:
 
 The goal is to quantify guest sentiment using **VADER sentiment scores** and compare **average sentiment across pricing ranges** after cleaning and preparing both datasets.
 
-🔗 [Live Streamlit App](https://sentimental-pricing-analysis-ta36sdhtugtigxysds3en9.streamlit.app/)
+🔗 [Live Streamlit App](https://sentimental-pricing-analysis.streamlit.app/)
 
 
 ## ❓ Problem Statement
